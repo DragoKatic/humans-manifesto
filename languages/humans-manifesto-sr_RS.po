@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Humans Manifesto 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/DragoKatic/humans-manifesto\n"
+"POT-Creation-Date: 2025-10-03 11:00+0200\n"
+"PO-Revision-Date: 2025-10-03 12:50+0200\n"
+"Last-Translator: Драго Катић <dragokatic@hotmail.com>\n"
+"Language-Team: Serbian\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.6\n"
+
+#: humans-manifesto.php:34
+msgid "I am active and engaged."
+msgstr "Укључен сам у активности."
+
+#: humans-manifesto.php:35
+msgid "I am aware of my surroundings, and those in my immediate sphere."
+msgstr "Свесан сам свог окружења и људи у својој непосредној сфери."
+
+#: humans-manifesto.php:36
+msgid "I am attentive."
+msgstr "Обраћам пажњу."
+
+#: humans-manifesto.php:37
+msgid "I am focused on the essential, to the exclusion of all else."
+msgstr "Усредсређен сам на суштинско, занемарујући све остало."
+
+#: humans-manifesto.php:38
+msgid "I am unsure of the future, but I am not concerned."
+msgstr "Будућност је неизвесна, али се не бринем."
+
+#: humans-manifesto.php:39
+msgid "I will rely on those closest to me."
+msgstr "Ослањаћу се на оне који су ми најближи."
+
+#: humans-manifesto.php:40
+msgid "I will share their burdens, as they share mine."
+msgstr "Делићу њихове терете, као што они деле моје."
+
+#: humans-manifesto.php:41
+msgid "I will live."
+msgstr "Живећу."
+
+#: humans-manifesto.php:42
+msgid "And I will love."
+msgstr "И волећу."
+
+#: humans-manifesto.php:50
+msgid "Humans Manifesto:"
+msgstr "Људски манифест:"
+
+#: humans-manifesto.php:52
+msgid "Close"
+msgstr "Затвори"
