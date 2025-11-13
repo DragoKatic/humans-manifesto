@@ -1,0 +1,73 @@
+/**
+ * Humans Manifesto Admin Styles
+ *
+ * Inspired by the film "Ad Astra"
+ * Plugin: Humans Manifesto
+ * Author: Drago Katić
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+#screen-meta-links{
+  margin-bottom: 16px;
+}
+
+/* Humans Manifesto */
+#humans-manifesto-section .hm-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 0.75rem 1rem;
+    border-radius: 0.25rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    line-height: 1.6;
+    width: 98.5%;
+    position: relative;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin: 4px;
+    background-color: #ff911c; 
+    color: #0d1321;
+}
+
+/* Humans Manifesto Logo Image */
+.hm-logo-image {
+	width:24px;
+	height:auto;
+	filter: invert(6%) sepia(84%) saturate(5000%) hue-rotate(220deg) brightness(13%) contrast(105%);
+}
+
+/* Close button */
+.hm-close-btn {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    cursor: pointer;
+    font-weight: bold;
+    background: none;
+    border: none;
+    font-size: 1rem;
+    color: #0d1321;
+}
+
+/* Text line */
+.humans-manifesto-text-line {
+    padding: 8px 0px 16px 0px;
+	position: absolute;
+	margin: auto auto -16px 16px;
+}
+
+@media screen and (max-width: 782px) {
+	#humans-manifesto-section .hm-entry  {
+		margin: 4px 4px 4px -2px;
+  }
+	.humans-manifesto-text-line {
+		padding: 0px 0px 16px 0px;
+		position: relative;
+		margin: 0px auto -16px 16px;
+	}
+	.hm-logo-image {
+		margin-bottom: -8px;
+	}
+}
